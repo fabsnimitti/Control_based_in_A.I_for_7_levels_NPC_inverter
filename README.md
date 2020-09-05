@@ -7,9 +7,11 @@ it is a file created to test and plot the inverter output, it load the model and
 # The NPC_7.py file:
 It is our training environment, this file work together with ai.py to create and train our model.
 # Click in this imagem to watch the training video.
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7UqTWPhouaw/0.jpg)](https://www.youtube.com/watch?v=7UqTWPhouaw)
+[![vide](https://img.youtube.com/vi/7UqTWPhouaw/0.jpg)](https://www.youtube.com/watch?v=7UqTWPhouaw)
 # The output that this A.i got:
 We can see that this project works well, since the output is the same of a complex analog control circuit as you can see below.
-![Image of Yaktocat](https://github.com/fabsnimitti/Control_based_in_A.I_for_7_levels_NPC_inverter/blob/master/Output/output.png)
+
+
+![output](https://github.com/fabsnimitti/Control_based_in_A.I_for_7_levels_NPC_inverter/blob/master/Output/output.png)
 
 
