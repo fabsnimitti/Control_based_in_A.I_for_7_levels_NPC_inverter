@@ -16,4 +16,5 @@ We can see that this project works well, since the output is the same of a compl
 
 # Bibliography:
 [1] Nandy,Abhishek; Biswas,Manisha. Reinforcement Learning  With Open AI, TensorFlow and Keras Using Python, 2018. Spring.
+
 [2] Juvin, Gaetan. My Journey Into Deep Q-Learning with Keras and Gym, 2017.
