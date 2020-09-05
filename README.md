@@ -14,6 +14,6 @@ We can see that this project works well, since the output is the same of a compl
 
 ![output](https://github.com/fabsnimitti/Control_based_in_A.I_for_7_levels_NPC_inverter/blob/master/Output/output.png)
 
-#Bibliography:
+# Bibliography:
 [1] Nandy,Abhishek; Biswas,Manisha. Reinforcement Learning  With Open AI, TensorFlow and Keras Using Python, 2018. Spring.
 [2] Juvin, Gaetan. My Journey Into Deep Q-Learning with Keras and Gym, 2017.
