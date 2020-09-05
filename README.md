@@ -3,5 +3,9 @@ In this repositorie you can found a stable control for 7 levels inverter, there 
 # The ai.py file:
 Contain the "brain" of this project, the neural network model and some function to realize the exprience replay and memorize the action.
 # The test_npc.py file:
+it is a file created to test and plot the inverter output, it load the model and weights and make a test for one period of 50Hz sine wave.
+# The NPC_7.py file:
+It is our training environment, this file work together with ai.py to create and train our model.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7UqTWPhouaw/0.jpg)](https://www.youtube.com/watch?v=7UqTWPhouaw)
 
 
