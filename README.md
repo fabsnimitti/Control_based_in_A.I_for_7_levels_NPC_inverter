@@ -8,7 +8,7 @@ it is a file created to test and plot the inverter output, it load the model and
 It is our training environment, this file work together with ai.py to create and train our model.
 # Click in this imagem to watch the training video.
 [![vide](https://img.youtube.com/vi/7UqTWPhouaw/0.jpg)](https://www.youtube.com/watch?v=7UqTWPhouaw)
-# The output that this A.i got:
+# The output that this A.I got:
 We can see that this project works well, since the output is the same of a complex analog control circuit as you can see below.
 
 
