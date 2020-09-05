@@ -18,3 +18,7 @@ We can see that this project works well, since the output is the same of a compl
 [1] Nandy,Abhishek; Biswas,Manisha. Reinforcement Learning  With Open AI, TensorFlow and Keras Using Python, 2018. Spring.
 
 [2] Juvin, Gaetan. My Journey Into Deep Q-Learning with Keras and Gym, 2017.
+
+[3] Santos Jr, Euzeli Cipriano; Cabral da Silva, Edson Roberto. Advanced Power Eletronics Converters, 2015. 1ed, Wiley.
+
+[4] Islam, Rabiul; Guo, Younguang; Zhu, Jianguo. Power Converters for Medium Voltage Network, 2014. 1 ed,Springer.
